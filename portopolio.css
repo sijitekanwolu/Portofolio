@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+    
+*{
+  font-family: "poppins" "sans-serif";
+}
+.navbar {
+  background-color: #52B5B8;
+}
+.navbar-nav li a:hover {
+  color: blue;
+}
+.textnavbar {
+    color: blue;
+}
+
+.home{
+  background:  url(bakgron1.png);
+}
+.texthome {
+    color: blue;
+}
+
+.textabout {
+    color: blue;
+}
+.textskill {
+    color: blue;
+}
+.textexperience {
+    color: blue;
+}
+
+.textproject {
+    color: blue;
+}
+
+
+.textgalery {
+    color: blue;
+}
+
+.faq {
+  background:  url(bagroun.png);
+}
+.textfaq {
+    color: blue;
+}
+
+
+.box {
+display: flex;
+justify-content: center;
+gap: 15px;
+}
+
+section {
+min-height: 100vh;
+padding-top: 24px;
+} 
+
+#contact{
+min-height: 20vh;
+}
